@@ -86,12 +86,6 @@ The objective of this project is to analyze transaction data and answer critical
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add dashboard screenshots here)
-
----
-
 ## 🚀 Conclusion
 
 This project demonstrates how Power BI can transform raw transaction data into meaningful business insights. By analyzing user behavior, transaction trends, and service performance, the dashboard helps stakeholders identify growth opportunities, improve operational efficiency, and make informed business decisions.
